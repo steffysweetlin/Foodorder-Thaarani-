@@ -1,0 +1,98 @@
+[{
+    "name": "Biriyani",
+    "price": 250,
+    "description": "Biryani is a mixed rice dish, mainly popular in South Asia. It is made with rice, some type of meat",
+    "ratings": 10,
+    "images": [
+      {
+        "image": "/images/products/briyani.jfif"
+      }
+    ],
+    "category": "main course",
+    "seller": "yaa mohideen",
+    "stock": 7
+  },
+  {
+    "name": "noodles",
+    "price": 150,
+    "description": "A vast majority of instant noodles are low in calories, but are also low in fibre and protein",
+    "ratings": 3.5,
+    "images": [
+      {
+        "image": "/images/products/noodles.jfif"
+      }
+    ],
+    "category": "main course",
+    "seller": "tinu fastfoods",
+    "stock": 9
+  },
+  {
+    "name": "tandoori chicken",
+    "price": 450,
+    "description": "Tandoori Chicken at its best! This easy recipe helps you make incredibly tender, juicy, moist and outrageously delicious Tandoori Chicken.",
+    "ratings": 8,
+    "images": [
+      {
+        "image": "/images/products/tandoori chicken.jfif"
+      }
+    ],
+    "category": "straters",
+    "seller": "altaf biriyani",
+    "stock": 9
+  },
+  {
+    "name":"fish tawa fry",
+    "price": 250,
+    "description": " The fish marination is made with spices, ginger, garlic, curry leaves, lemon. s",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/fish tawa fry.jfif"
+      }
+    ],
+    "category": "straters",
+    "seller": "hotel pandias",
+    "stock": 9
+  },
+  {
+    "name": "healthy food bowl",
+    "price": 250,
+    "description": "A healthy bowlful of nourishing and satisfying ingredients. Discover our quick chicken hummus bowl, sweet potato & cauliflower lentil bowl and more",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/healthy food bowl.jfif"
+      }
+    ],
+    "category": "main course",
+    "seller": "healthy gains",
+    "stock": 9
+  },
+  {
+    "name": "Parota",
+    "price": 120,
+    "description": " Parotta dough is made using refined flour, salt, sugar, milk and oil. The dough is allowed to rest for many hours to make soft flaky paratha.",
+    "ratings": 5,
+    "images": [
+      {
+        "image": "/images/products/parota.jfif"
+      }
+    ],
+    "category": "main course",
+    "seller": "border parota",
+    "stock": 4
+  },
+  {
+    "name": "brownie with ice cream",
+    "price": 150,
+    "description": "Brownie with Ice Cream is a divine dessert that combines the richness of a fudgy brownie with the cool, creamy perfection of vanilla ice cream. ",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/images/products/brownie with ice cream.jfif"
+      }
+    ],
+    "category": "desserts",
+    "seller":"cream story ",
+    "stock": 6
+  }]
